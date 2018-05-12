@@ -1,0 +1,32 @@
+_repo: Vistas-in-Sicily_40381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40381-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Riggs, Arthur Stanley
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '40586'
+    url: http://www.gutenberg.org/2009/agents/40586
+description: ''
+gutenberg_issued: '2012-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40381'
+  lccn: '13000128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Sicily (Italy) -- Description and travel'
+tableOfContents: Introduction -- Discovery -- Palermo -- A night of dissipation --
+  Cathedrals -- Palaces and people -- The plain of Panormos -- Around the island --
+  The road to Syracuse -- The harbor and the Anapo -- Syracuse the Pentapolis -- Catania
+  and Mt. Ætna -- Taormina -- Some mountain vistas -- Lights and shades -- The city
+  that was -- The northern shore -- The western shore -- Addio, Sicilia!
+title: Vistas in Sicily
+url: http://www.gutenberg.org/ebooks/40381
